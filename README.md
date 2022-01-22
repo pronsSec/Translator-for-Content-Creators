@@ -11,10 +11,8 @@ You will also receive audio files in the output language.
 
 
 
-Download this safe audio sample in Russian language here if needed...local upload of .wav only at this point (changing soon to live input + others)
-https://nemo-public.s3.us-east-2.amazonaws.com/mcv-samples-ru/common_voice_ru_19034087.wav
 
 
-**Under 60 seconds for now and output will be inconsistent if audio is not clear. Use as a reference the test file above.**
+**ALL output will be inconsistent if audio is not clear. Most results vary.**
 
 
